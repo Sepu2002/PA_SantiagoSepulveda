@@ -1,0 +1,9 @@
+﻿  04_Arreglos1D.cpp
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(165,17): error C2086: 'int comp': redefinition
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(146,17): message : see declaration of 'comp'
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(185,17): error C2086: 'int comp': redefinition
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(146,17): message : see declaration of 'comp'
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(205,17): error C2086: 'int comp': redefinition
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(146,17): message : see declaration of 'comp'
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(225,17): error C2086: 'int comp': redefinition
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\04_Arreglos1D\04_Arreglos1D\04_Arreglos1D.cpp(146,17): message : see declaration of 'comp'
