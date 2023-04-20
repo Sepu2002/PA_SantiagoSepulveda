@@ -1,0 +1,3 @@
+﻿  Library.cpp
+C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\Library\Library\Library.cpp(116,10): warning C4101: 'bookFound': unreferenced local variable
+  Library.vcxproj -> C:\Users\sslpa\Desktop\School\4o Semestre\PrograAvanzada\PA_SantiagoSepulveda\Library\x64\Debug\Library.exe
